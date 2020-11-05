@@ -1,0 +1,90 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="css/style.css" />
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/script.js"></script>
+	</head>
+	<body>
+		<div id="frontend_upload">	
+            <div class="flex">
+				<table>
+					<tr>
+                        <td width="150">
+                            <input id="upload_url" type="text" placeholder="Enter URL" />
+                        </td>
+				        <td width="150">
+                            <input id="upload_urlbutton" type="button" value="Upload URL" />
+                        </td>
+                        <td width="150" id="upload_filecontainer">
+                            <input id="upload_file" class="upload_file_block" type="file" accept="image/x-png,image/gif,image/jpeg" />
+                            <input class="upload_file_block" type="button" value="Select an image" />
+                        </td>
+                        <td width="150">
+                            <input id="upload_sample" type="button" value="Use sample image" />
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div id="frontend_loading" class="hide">
+            <div class="flex">
+                Loading image, please wait...
+            </div>
+        </div>
+        <div id="frontend_app" class="hide">
+            <center>
+                <div id="app_buttons">
+                    <br/>
+                    <input id="app_buttons_new" value="New" type="button" />
+                    <input id="app_buttons_reset" value="Reset" type="button" disabled="disabled" />
+                    <input id="app_buttons_shuffle" value="Shuffle" type="button" disabled="disabled" />
+                    <input id="app_buttons_sort" value="Sort" type="button" disabled="disabled" />
+                    <input id="app_buttons_export" value="Export" type="button" />
+                    <br/><br/>
+                </div>
+                <br/><br/><br/>
+                <table class="viewtable">
+                    <tr><td><div id="sort0" class="view"></div></td></tr>
+                    <tr><td>Bubble Sort<br/></td></tr>
+                </table>
+                <table class="viewtable">
+                    <tr><td><div id="sort1" class="view"></div></td></tr>
+                    <tr><td>Selection Sort<br/></td></tr>
+                </table>
+                <table class="viewtable">
+                    <tr><td><div id="sort2" class="view"></div></td></tr>
+                    <tr><td>Insertion Sort<br/></td></tr>
+                </table>
+                <br/>
+                <table class="viewtable">
+                    <tr><td><div id="sort3" class="view"></div></td></tr>
+                    <tr><td>Merge Sort (in-place)</td></tr>
+                </table>
+                <table class="viewtable">
+                    <tr><td><div id="sort4" class="view"></div></td></tr>
+                    <tr><td>Shell Sort (Knuth's formula)</td></tr>
+                </table>
+                <table class="viewtable">
+                    <tr><td><div id="sort5" class="view"></div></td></tr>
+                    <tr><td>Quick Sort</td></tr>
+                </table>
+            </center>
+        </div>
+        <div id="frontend_export" class="hide">
+            <div class="flex">
+                <table id="export_table">
+                    <tr><td id="export_upload">Uploading image to server...</td> <td id="export_upload_done">done</td></tr>
+                    <tr><td id="export_frames">Processing Frames...</td> <td id="export_frames_done">done</td></tr>
+                    <tr><td id="export_render">Rendering Video...</td>   <td id="export_render_done">done</td></tr>
+                    <tr><td id="export_compress">Compressing Video...</td> <td id="export_compress_done">not implemented</td></tr>
+                    <tr>
+                        <td id="export_download" colspan="2">
+                            <br/>
+                            <input id="export_download_button" type="button" value="Download" />
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </body>
+</html>

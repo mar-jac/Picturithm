@@ -1,0 +1,109 @@
+body {
+	background-color: black;
+	font-family: sans-serif;
+    margin: 8px;
+    color: white;
+}
+
+canvas {
+	position: absolute;
+}
+
+td {
+	padding: 0;
+}
+
+input[type="button"], input[type="file"] {
+	background-color: black;
+	border:2px solid white;
+	padding: 5px 15px 5px 15px;
+	font-weight: bold;
+	color: white;
+	cursor: pointer;
+	width: 150px;
+}
+
+input[type="button"][disabled] {
+	border:2px solid gray;
+	color: gray;
+	cursor: default;
+}
+
+.hide {
+    display: none;
+}
+
+.flex {
+    height: 100%;
+	width: 100%;
+	position:fixed;
+	top: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+}
+
+
+#upload_url {
+ 	padding: 5px 15px 5px 15px;
+	outline: 0;
+	border-radius: 0;
+	border: 2px solid white;
+    background-color: white;
+	text-align: center;
+}
+
+#upload_filecontainer {
+    position: relative;
+}
+
+#upload_file {
+    z-index:2;
+	opacity:0;
+}
+
+.upload_file_block {
+    position:absolute; 
+    top:0; 
+    left:0;
+}
+
+
+#app_buttons {
+	width: 100%;
+	position: fixed;
+	top:0;
+	left:0;
+	z-index:2;
+	background-color: black;
+	text-align: center;
+}
+
+.viewtable{
+	display: inline-block;
+	color: white;
+	font-family: monospace;
+	text-align: center;
+    padding: 5px;
+}
+
+.view {
+	position: relative;
+	display: inline-block;
+}
+
+
+#export_table {
+    font-family: monospace;
+}
+
+#export_table td {
+    padding: 5px 30px 5px 30px;
+    visibility: hidden;
+}
+
+#export_upload {
+    visibility: visible !important;
+}
