@@ -20,4 +20,3 @@ Go to the htdocs folder from the folder location of XAMPP make a temp folder in 
 Open up in the browser and there you go!
 
 ![](http://i.imgur.com/nxrkppS.gif)
-![](http://i.imgur.com/60bts.gif)
