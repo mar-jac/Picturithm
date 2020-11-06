@@ -19,4 +19,4 @@ Download XAMPP Control Panel and open it as Administrator. Make sure to install 
 Go to the htdocs folder from the folder location of XAMPP make a temp folder in it and extract the files to it.
 Open up in the browser and there you go!
 
-![](http://i.imgur.com/nxrkppS.gif)
+[Imgur](https://i.imgur.com/RqnQ2VP.gifv)
