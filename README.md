@@ -12,7 +12,7 @@ So far, Picturithmn has bubble sort, picture sort, insertion sort, shell sort, m
 
 
 
-Installation (no website yet)!
+# Installation (no website yet)! #
 
 Must have Python 3.7 or greater! 
 Download XAMPP Control Panel and open it as Administrator. Make sure to install Apache if it isn't already installed. 
