@@ -5,7 +5,7 @@ An algorithm visualizer that uses any image to visualize various algorithms.
 
 Wanted to review algoritmns but get tired of the bars and graphs. Well why not use your own pictures? 
 
-Picturithmn ueses your images to do various algorithmns and normalizes them in real-time. 
+Picturithm ueses your images to do various algorithmns and normalizes them in real-time. 
 
 So far, Picturithmn has bubble sort, picture sort, insertion sort, shell sort, merge sort, and quicksort. 
 
