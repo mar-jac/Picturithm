@@ -9,7 +9,8 @@ Picturithm uses your images to do various algorithms and normalizes them in real
 
 So far, Picturithm has bubble sort, picture sort, insertion sort, shell sort, merge sort, and quicksort. 
 
-
+## Video Preview##
+https://www.linkedin.com/posts/mar-jac_codingisfun-softwareengineering-programming-activity-6749833905987170304-gwF-
 
 
 ## Installation (no website yet)! ##
