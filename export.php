@@ -45,7 +45,7 @@ if($imgfail) {
 
 file_put_contents("images/".$token.".status", "0");
 
-pclose(popen("START /B python export.py images/".$token." output/".$token.".mp4", "w"));
+pclose(popen("START /B python export_all.py images/".$token." output/".$token.".mp4", "w"));
 //shell_exec("python export.py images/".$token." output/".$token.".mp4 &");
 
 echo $token;

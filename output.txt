@@ -1,0 +1,3 @@
+Frames processing done in 2.3, rendering now
+Rendering done in 1.17
+Total time taken: 3.4699999999999998

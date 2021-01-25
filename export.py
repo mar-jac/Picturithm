@@ -15,6 +15,10 @@ imid: Where a piece actually is
 
 """
 
+import sys
+sys.stdout = open('output.txt','w')
+sys.stderr=open('error.txt','w')
+
 class cvutil:
     @staticmethod
     def piltocv(pil_image):
