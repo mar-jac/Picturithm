@@ -12,8 +12,11 @@ So far, Picturithm has bubble sort, picture sort, insertion sort, shell sort, me
 ## Video Preview 
 https://www.linkedin.com/posts/mar-jac_codingisfun-softwareengineering-programming-activity-6749833905987170304-gwF-
 
+## Website
+https://picturithm.000webhostapp.com/
 
-## Installation (no website yet)! ##
+
+## Installation ##
 
 Must have Python 3.7 or greater! 
 Download XAMPP Control Panel and open it as Administrator. Make sure to install Apache if it isn't already installed. 
