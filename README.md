@@ -13,7 +13,7 @@ So far, Picturithm has bubble sort, picture sort, insertion sort, shell sort, me
 https://www.linkedin.com/posts/mar-jac_codingisfun-softwareengineering-programming-activity-6749833905987170304-gwF-
 
 ## Website
-https://picturithm.000webhostapp.com/
+https://picurithmn.000webhostapp.com
 
 
 ## Installation ##
