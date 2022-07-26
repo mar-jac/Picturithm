@@ -9,8 +9,7 @@ Picturithm uses your images to do various algorithms and normalizes them in real
 
 So far, Picturithm has bubble sort, picture sort, insertion sort, shell sort, merge sort, and quicksort. 
 
-[Amazon Web Sevices Link: https://main.d2wzp5feke152c.amplifyapp.com/](https://main.d2wzp5feke152c.amplifyapp.com/)
-
+Check out the webpage using hosted through Heroku/Amazon Web Services!
 
 ## Manual Installation ##
 
