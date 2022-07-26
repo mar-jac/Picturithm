@@ -11,6 +11,7 @@ So far, Picturithm has bubble sort, picture sort, insertion sort, shell sort, me
 
 Check out the webpage using hosted through Heroku/Amazon Web Services!
 
+</hr>
 
 <h3> Manual Installation </h3>
 
