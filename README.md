@@ -9,12 +9,13 @@ Picturithm uses your images to do various algorithms and normalizes them in real
 
 So far, Picturithm has bubble sort, picture sort, insertion sort, shell sort, merge sort, and quicksort. 
 
-## Video Preview 
-https://www.linkedin.com/posts/mar-jac_codingisfun-softwareengineering-programming-activity-6749833905987170304-gwF-
-
+[![Using Amazon Web Sevices]: (https://main.d2wzp5feke152c.amplifyapp.com/)]
 ## Manual Installation ##
 
+
+
 Must have Python 3.7 or greater! 
+
 Download XAMPP Control Panel and open it as Administrator. Make sure to install Apache if it isn't already installed. 
 Go to the htdocs folder from the folder location of XAMPP make a temp folder in it and extract the files to it.
 Open up in the browser and there you go!
