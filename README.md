@@ -21,5 +21,9 @@ Must have Python 3.7 or greater!
 2) Go to the `htdocs` folder from the folder location of XAMPP make a temp folder in it and extract the files to it.
 3) Open up in the browser and enjoy testing!
 
+<hr>
 
 
+<p align='center'>
+<img src='https://i.imgur.com/MisXjJE.png'>
+</p>
