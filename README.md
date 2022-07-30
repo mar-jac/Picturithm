@@ -3,11 +3,13 @@ An algorithm visualizer that uses any image to visualize various algorithms.
 
 
 
-Wanted to review algoritmns but get tired of the bars and graphs. Well why not use your own pictures? 
+An algorithm visualizer that uses any image to visualize various algorithms.
 
-Picturithm uses your images to do various algorithms and normalizes them in real-time. 
+I wanted to review algorithms but got tired of the bars and graphs. Well, why not use your pictures?
 
-So far, Picturithm has bubble sort, picture sort, insertion sort, shell sort, merge sort, and quicksort. 
+Picturithm uses your images to do various algorithms and normalizes them in real-time.
+
+So far, Picturithm has bubble sort, picture sort, insertion sort, shell sort, merge sort, and quicksort.
 
 Check out the webpage using hosted through Heroku/Amazon Web Services!
 
