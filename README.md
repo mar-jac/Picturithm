@@ -2,9 +2,6 @@
 An algorithm visualizer that uses any image to visualize various algorithms. 
 
 
-
-An algorithm visualizer that uses any image to visualize various algorithms.
-
 I wanted to review algorithms but got tired of the bars and graphs. Well, why not use your pictures?
 
 Picturithm uses your images to do various algorithms and normalizes them in real-time.
